@@ -13,6 +13,7 @@ papers:
     volume: 104
     pages: 66&ndash;77
     venue: journal
+
   -
     layout: paper
     paper-type: article
@@ -23,12 +24,27 @@ papers:
     doc-url: https://doi.org/10.1016/j.trc.2018.11.003
     data: http://doi.org/10.5281/zenodo.1205229
     code: https://github.com/xinychen/transdim/blob/master/experiments/Imputation-BGCP.ipynb
-#     img: csur2008
     volume: 98
 #     number: 3
 #     article: 8
     pages: 73&ndash;84
     venue: journal
+
+  - 
+    Layout: paper
+    Paper-type: article
+    year: 2018
+    title: "Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition"
+    authors: Xinyu Chen, Zhaocheng He, Jiawei Wang
+    journal: "Transportation Research Part C: Emerging Technologies"
+    doc-url: http://doi.org/10.1016/j.trc.2017.10.023
+    volume: 86
+    pages: 59&ndash;77
+    venue: journal
+
+
+
+
 #     errata: >
 #       The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
 #       <ul><li>
