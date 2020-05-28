@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Research group
+title:  Collaborators
 cover:  false
 menu:   true
-order:  3
+order:  6
 ---
 
 > _Much have I learned from my teachers, more from my colleagues, but most 
