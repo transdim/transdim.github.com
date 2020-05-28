@@ -4,6 +4,7 @@ papers:
     paper-type: article
     year: 2019
     title: "Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model"
+    authors: Xinyu Chen, Zhaocheng He, Yixian Chen, Yuhuan Lu, Jiawei Wang
     journal: "Transportation Research Part C: Emerging Technologies"
     doc-url: https://doi.org/10.1016/j.trc.2019.03.003
     data: http://doi.org/10.5281/zenodo.1205229
@@ -17,6 +18,7 @@ papers:
     paper-type: article
     year: 2019
     title: "A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation"
+    authors: Xinyu Chen, Zhaocheng He, Lijun Sun
     journal: "Transportation Research Part C: Emerging Technologies"
     doc-url: https://doi.org/10.1016/j.trc.2018.11.003
     data: http://doi.org/10.5281/zenodo.1205229
