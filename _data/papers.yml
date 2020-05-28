@@ -1,5 +1,5 @@
 papers:
-  - [1]
+  - 
     layout: paper
     paper-type: article
     year: 2019
@@ -14,7 +14,7 @@ papers:
     pages: 66&ndash;77
     venue: journal
 
-  - [2]
+  - 
     layout: paper
     paper-type: article
     year: 2019
@@ -30,7 +30,7 @@ papers:
     pages: 73&ndash;84
     venue: journal
 
-  - [3]
+  - 
     layout: paper
     paper-type: article
     year: 2018
