@@ -1183,7 +1183,7 @@ papers:
     paper-type: article
     year: 2019
     title: A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation
-    journal: Transportation Research Part C: Emerging Technologies
+    journal: "Transportation Research Part C: Emerging Technologies"
     journal-url: http://surveys.acm.org/
     img: csur2008
     volume: 108
