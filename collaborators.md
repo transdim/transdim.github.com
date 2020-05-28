@@ -3,7 +3,7 @@ layout: page
 title:  Collaborators
 cover:  false
 menu:   true
-order:  6
+order:  5
 ---
 
 > _Much have I learned from my teachers, more from my colleagues, but most 
