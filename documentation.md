@@ -1,9 +1,9 @@
 ---
 layout: page
-title:  Teaching
+title:  Documentation
 cover:  false
 menu:   true
-order:  2
+order:  3
 ---
 
 > _The subject of the lecture was beyond my competence. After the 
