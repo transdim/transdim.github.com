@@ -1,4 +1,46 @@
 papers:
+  -
+    layout: paper
+    paper-type: article
+    year: 2019
+    title: "Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model"
+    journal: "Transportation Research Part C: Emerging Technologies"
+    doc-url: https://doi.org/10.1016/j.trc.2019.03.003
+    data: http://doi.org/10.5281/zenodo.1205229
+    code: https://github.com/sysuits/BATF
+    slides: https://doi.org/10.5281/zenodo.2632552
+    volume: 104
+    pages: 66&ndash;77
+    venue: journal
+  -
+    layout: paper
+    paper-type: article
+    year: 2019
+    title: "A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation"
+    journal: "Transportation Research Part C: Emerging Technologies"
+    doc-url: https://doi.org/10.1016/j.trc.2018.11.003
+    data: http://doi.org/10.5281/zenodo.1205229
+    code: https://github.com/xinychen/transdim/blob/master/experiments/Imputation-BGCP.ipynb
+#     img: csur2008
+    volume: 98
+#     number: 3
+#     article: 8
+    pages: 73&ndash;84
+    venue: journal
+#     errata: >
+#       The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
+#       <ul><li>
+#       S. Banerjee and A. Lavie. METEOR: An Automatic Metric for MT Evaluation with 
+#       Improved Correlation with Human Judgments. In Proceedings of the ACL 2005 
+#       Workshop on Intrinsic and Extrinsic Evaulation Measures for MT and/or 
+#       Summarization, 2005.
+#       </li></ul>
+#       Thanks to Matt Snover for pointing this out.
+#       <p>There is a typo in rule S3 on page 11; the English and Chinese sides of the rule are swapped.  It should read:
+#       <ul><li>
+#       NPB &rarr; JJ<sub>1</sub> NPB<sub>2</sub> / NPB<sub>2</sub> JJ<sub>1</sub>
+#       </li></ul>
+#       Thanks to Anoop Sarkar for pointing this out.
   - layout: paper
     paper-type: inproceedings
     year: 2018
@@ -550,35 +592,6 @@ papers:
       beam search and obtain theoretically sound solutions to inference problems such 
       as finding the maximum probability translation and minimum expected risk training 
       and decoding.
-  -
-    layout: paper
-    paper-type: article
-    year: 2019
-    title: A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation
-    journal: "Transportation Research Part C: Emerging Technologies"
-    doc-url: https://doi.org/10.1016/j.trc.2018.11.003
-    data: http://doi.org/10.5281/zenodo.1205229
-    code: https://github.com/xinychen/transdim/blob/master/experiments/Imputation-BGCP.ipynb
-#     img: csur2008
-    volume: 108
-#     number: 3
-#     article: 8
-    pages: 66&ndash;77
-    venue: journal
-#     errata: >
-#       The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
-#       <ul><li>
-#       S. Banerjee and A. Lavie. METEOR: An Automatic Metric for MT Evaluation with 
-#       Improved Correlation with Human Judgments. In Proceedings of the ACL 2005 
-#       Workshop on Intrinsic and Extrinsic Evaulation Measures for MT and/or 
-#       Summarization, 2005.
-#       </li></ul>
-#       Thanks to Matt Snover for pointing this out.
-#       <p>There is a typo in rule S3 on page 11; the English and Chinese sides of the rule are swapped.  It should read:
-#       <ul><li>
-#       NPB &rarr; JJ<sub>1</sub> NPB<sub>2</sub> / NPB<sub>2</sub> JJ<sub>1</sub>
-#       </li></ul>
-#       Thanks to Anoop Sarkar for pointing this out.
   -
     layout: paper
     paper-type: dissertation 
