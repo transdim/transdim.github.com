@@ -634,70 +634,6 @@ papers:
       and decoding.
   -
     layout: paper
-    paper-type: inproceedings
-    year: 2009
-    title: Translation as weighted deduction
-    booktitle: Proceedings of EACL
-    booktitle-url: http://aclweb.org/anthology/E/E09/
-    doc-url: http://aclweb.org/anthology/E09-1061v2
-    img: eacl2009
-    slides: http://www.cs.jhu.edu/~alopez/talks/EACL09-lopez-slides.pdf
-    venue: conference
-    abstract: >
-      We present a unified view of many translation algorithms that synthesizes 
-      work on deductive parsing, semiring parsing, and efficient approximate search 
-      algorithms.  This gives rise to clean analyses and compact descriptions that 
-      can serve as the basis for modular implementations.  We illustrate this with 
-      several examples, showing how to mechanically develop search spaces using 
-      non-local features, novel models, and a variety of disparate phrase-based 
-      strategies.  Although the framework is drawn from parsing and applied to 
-      translation, it is applicable to many dynamic programming problems arising 
-      in natural language processing and other areas.
-    errata: >
-      <p>This draft corrects errors that appeared in logic WL<i>d</i> (Fig 1.2; 
-      in particular, the bit vector representing the newly covered words was 
-      incorrectly specified); in the goal item of logic
-      Monotone-Generate (Section 5; in particular, the goal item should have 
-      no words left to generate); and the deductive rules of 
-      Monotone-Generate + Ngram (Figure 2.2; the indexes of the n-gram context
-      were incorrect, and the consequent of the second rule should start with
-      i rather than i+1).
-      <p>Thanks to Wilker Aziz and Shay Cohen for pointing these errors out.</p>
-  -
-    layout: paper
-    paper-type: inproceedings
-    year: 2009
-    authors: Michael Auli, Adam Lopez, Hieu Hoang, and Philipp Koehn
-    title: A systematic analysis of translation model search spaces
-    doc-url: http://aclweb.org/anthology/W09-0437
-    booktitle: Proceedings of the Fourth Workshop on Statistical Machine Translation 
-    booktitle-url: http://www.statmt.org/wmt09/
-    img: wmt2009
-    venue: workshop
-    abstract: >
-      Translation systems are complex, and most metrics do little to pinpoint causes of error or isolate system differences.  We use a simple technique to discover induction errors, which occur when good translations are absent from model search spaces.  Our results show that a common pruning heuristic drastically increases induction error, and also strongly suggest that the search spaces of phrase-based and hierarchical phrase-based models are highly overlapping despite the well known structural differences.
-  -
-    layout: paper
-    paper-type: inproceedings
-    year: 2008
-    title: Tera-scale translation models via pattern matching
-    pages: 505&ndash;512
-    booktitle: Proceedings of COLING 
-    booktitle-url: http://aclweb.org/anthology/C/C08/
-    img: coling2008
-    doc-url: http://aclweb.org/anthology/C08-1064
-    slides: http://www.cs.jhu.edu/~alopez/talks/coling_2008.pdf
-    venue: conference
-    abstract: >
-      Translation model size is growing at a pace that outstrips improvements in 
-      computing power, and this hinders research on many interesting models.  We 
-      show how an algorithmic scaling technique can be used to easily handle very 
-      large models.  Using this technique, we explore several large model variants 
-      and show an improvement 1.4 BLEU on the NIST 2006 Chinese-English task.  This 
-      opens the door for work on a variety of models that are much less constrained 
-      by computational limitations.
-  -
-    layout: paper
     paper-type: article
     year: 2019
     title: A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation
@@ -743,36 +679,6 @@ papers:
       <p>The main open problem we address is much harder.  Many translation models are based on the translation of discontiguous substrings.  The best pattern matching algorithm for these models is much too slow, taking several minutes per sentence.  We develop new algorithms that reduce empirical computation time by two orders of magnitude for these models, making translation by pattern matching widely applicable.  We use these algorithms to build a model that is two orders of magnitude larger than the current state of the art and substantially outperforms a strong competitor in Chinese-English translation.  We show that a conventional representation of this model would be impractical.  Our experiments shed light on some interesting properties of the underlying model.  The dissertation also includes the most comprehensive contemporary survey of statistical machine translation.</p>
   -
     layout: paper
-    year: 2007
-    paper-type: inproceedings
-    title: Hierarchical phrase-based translation with suffix arrays
-    pages: 976&ndash;985
-    booktitle: Proceedings of EMNLP-CoNLL
-    booktitle-url: http://www.cs.jhu.edu/EMNLP-CoNLL-2007/
-    doc-url: http://aclweb.org/anthology/D07-1104
-    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2007.pdf
-    img: emnlp2007
-    venue: conference
-    abstract: >
-      A major engineering challenge in
-      statistical machine translation systems
-      is the efficient representation of extremely large
-      translation rulesets.
-      In phrase-based models, this problem 
-      can be addressed by storing the training data in memory and using a suffix
-      array as an efficient index to quickly lookup and extract rules on the fly.
-      <i>Hierarchical</i> phrase-based translation
-      introduces the added wrinkle of source phrases with gaps.  
-      Lookup algorithms used for contiguous phrases no longer apply and
-      the best approximate pattern matching algorithms are much too slow,
-      taking several minutes per sentence.
-      We describe new lookup algorithms 
-      for hierarchical phrase-based
-      translation that reduce the empirical computation
-      time by nearly two orders of magnitude, making on-the-fly
-      lookup feasible for source phrases with gaps.
-  -
-    layout: paper
     year: 2006
     paper-type: inproceedings
     authors: With Philip Resnik
@@ -800,70 +706,6 @@ papers:
       on different aspects of the system.  Our results confirm a weak 
       correlation, but they also illustrate that more data and better 
       feature engineering may be more beneficial than better alignment.
-  -
-    layout: paper
-    paper-type: inproceedings
-    year: 2005
-    authors: David Chiang, Adam Lopez, Nitin Madnani, Christof Monz, Philip Resnik, and Michael Subotin
-    title: The Hiero machine translation system&#58; Extensions, evaluation, and analysis
-    pages: 779&ndash;786
-    booktitle: Proceedings of HLT/EMNLP
-    booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
-    doc-url: http://aclweb.org/anthology/H05-1098
-    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005.pdf
-    img: emnlp2005
-    venue: conference
-    abstract: >
-      Hierarchical organization is a well known property of language, and
-      yet the notion of hierarchical structure has been largely absent from
-      the best performing machine translation systems in recent community-wide
-      evaluations.  In this paper, we discuss a new hierarchical phrase-based
-      statistical machine translation system (Chiang, 2005), presenting
-      recent extensions to the original proposal, new evaluation results in
-      a community-wide evaluation, and a novel technique for fine-grained
-      comparative analysis of MT systems.
-  -
-    layout: paper
-    paper-type: inproceedings
-    year: 2005
-    authors: With Philip Resnik
-    title: Pattern visualization for machine translation output
-    pages: 12&ndash;13
-    booktitle: Proceedings of HLT/EMNLP Demonstrations
-    booktitle-url: http://www.cs.utexas.edu/~ml/HLT-EMNLP05/
-    doc-url: http://www.aclweb.org/anthology/H05-2007
-    slides: http://www.cs.jhu.edu/~alopez/talks/emnlp2005-demo.pdf
-    img: emnlp-demo2005
-    venue: workshop
-    abstract: >
-      We describe a method for identifying systematic patterns in translation 
-      data using part-of-speech tag sequences. We incorporate this analysis 
-      into a diagnostic tool intended for developers of machine translation 
-      systems, and demonstrate how our application can be used by developers to 
-      explore patterns in machine translation output. 
-  -
-    layout: paper
-    paper-type: inproceedings
-    authors: With Philip Resnik
-    year: 2005
-    title: Improved HMM alignment models for languages with scarce resources
-    pages: 83&ndash;86
-    booktitle: Proceedings of the ACL 2005 Workshop on Building and Using Parallel Texts&#58; Data Driven Machine Translation and Beyond
-    booktitle-url: http://www.statmt.org/wpt05/
-    doc-url: http://aclweb.org/anthology/W05-0812
-    slides: http://www.cs.jhu.edu/~alopez/talks/wpt05-slides.pdf
-    img: wmt2005
-    code: http://github.com/alopez/hmmalign
-    venue: workshop
-    abstract: >
-      We introduce improvements to statistical word 
-      alignment based on the Hidden Markov 
-      Model. One improvement incorporates syntactic 
-      knowledge. Results on the workshop data 
-      show that alignment performance exceeds that 
-      of a state-of-the art system based on more complex 
-      models, resulting in over a 5.5% absolute 
-      reduction in error on Romanian-English.
   -
     layout: paper
     paper-type: inproceedings
