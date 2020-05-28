@@ -31,8 +31,8 @@ papers:
     venue: journal
 
   - 
-    Layout: paper
-    Paper-type: article
+    layout: paper
+    paper-type: article
     year: 2018
     title: "Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition"
     authors: Xinyu Chen, Zhaocheng He, Jiawei Wang
@@ -42,7 +42,10 @@ papers:
     pages: 59&ndash;77
     venue: journal
 
-  - 
+
+
+
+
 
 #     errata: >
 #       The reference for Banerjee and Lavie (2005) on p. 39 is missing. It should be:
