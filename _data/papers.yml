@@ -1181,15 +1181,15 @@ papers:
   -
     layout: paper
     paper-type: article
-    year: 2008
-    title: Statistical machine translation
-    journal: ACM Computing Surveys
+    year: 2019
+    title: A Bayesian tensor decomposition approach for spatiotemporal traffic data imputation
+    journal: Transportation Research Part C: Emerging Technologies
     journal-url: http://surveys.acm.org/
     img: csur2008
-    volume: 40
+    volume: 108
     number: 3
     article: 8
-    pages: 1&ndash;49
+    pages: 66&ndash;77
     doc-url: papers/survey.pdf
     venue: journal
     errata: >
