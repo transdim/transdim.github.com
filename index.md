@@ -8,7 +8,7 @@ I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub pr
 
 
 ## News
-* **2020/5**: Paper "A nonconvex low-rank tensor completion for spatiotemporal traffic data imputation" is accepted by *Transportation Research Part C: Emerging Technologies*.
+* **2020/5**: Paper "A nonconvex low-rank tensor completion for spatiotemporal traffic data imputation" (Xinyu Chen, Jinming Yang, Lijun Sun) is accepted by *Transportation Research Part C: Emerging Technologies*.
 * **2020/3**: transdim project is awarded by IVADO Excellence PhD funding.
 * **2018/9**: Xinyu Chen starts transdim project with personal interest at Sun Yat-Sen University. He believes *this project would help a lot for the research community*.
 
