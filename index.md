@@ -4,7 +4,7 @@ title: About author
 cover: false
 ---
 
-I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub project. That is [**transdim**](https://github.com/xinychen/transdim), which is a problem-oriented project for **trans**portation **d**ata **im**putation. It has covered a manifold of machine learning models. In the meanwhile, my collaborators have developed some tensor learning models with me for spatiotemporal data imputation forecasting.
+I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub project. That is **transdim** (GitHub repository: [https://github.com/xinychen/transdim](https://github.com/xinychen/transdim)), which is a problem-oriented project for **trans**portation **d**ata **im**putation. It has covered a manifold of machine learning models. In the meanwhile, my collaborators have developed some tensor learning models with me for spatiotemporal data imputation forecasting.
 
 
 ## News
