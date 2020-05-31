@@ -13,7 +13,7 @@ I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub pr
 * **2020/3**: transdim project is awarded by [IVADO Excellence PhD funding](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/) (proposal: "City-scale traffic data imputation and forecasting with tensor learning").
 * **2018/9**: Xinyu Chen starts transdim project with personal interest at Sun Yat-Sen University. He thinks *transdim project would help a lot for the research community*.
 
-## Research Highlights
+## Highlights
 
 Machine learning models make important developments in the field of spatiotemporal data modeling, like how to forecast near-future traffic states of road networks. But what happens when these models are built with incomplete data commonly collected in real-world systems?
 
