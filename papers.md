@@ -6,7 +6,7 @@ menu:   true
 order:  4
 ---
 
-> **transdim** project is from our papers, please cite the following papers if they help your research.
+> **transdim** project is from the following papers, please cite these papers if they help your research.
 
 
 
