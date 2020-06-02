@@ -2,6 +2,30 @@ papers:
   - 
     layout: paper
     paper-type: article
+    year: 2020
+    title: "A nonconvex low-rank tensor completion model for spatiotemporal traffic data imputation"
+    authors: Xinyu Chen, Jinming Yang, Lijun Sun
+    journal: "Transportation Research Part C: Emerging Technologies"
+    doc-url: https://arxiv.org/abs/2003.10271
+    data: https://github.com/xinychen/transdim
+    code: https://github.com/xinychen/transdim
+    venue: journal
+
+  - 
+    layout: paper
+    paper-type: article
+    year: 2019
+    title: "Bayesian temporal factorization for multidimensional time series prediction"
+    authors: Xinyu Chen, Lijun Sun
+    journal: "arXiv"
+    doc-url: https://arxiv.org/abs/1910.06366
+    data: https://github.com/xinychen/transdim
+    code: https://github.com/xinychen/transdim
+    venue: journal
+
+  - 
+    layout: paper
+    paper-type: article
     year: 2019
     title: "Missing traffic data imputation and pattern discovery with a Bayesian augmented tensor factorization model"
     authors: Xinyu Chen, Zhaocheng He, Yixian Chen, Yuhuan Lu, Jiawei Wang
