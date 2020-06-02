@@ -15,10 +15,10 @@ I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub pr
 
 ## Highlights
 
-- Several publicly available spatiotemporal data sets ([data set list](https://github.com/xinychen/transdim/tree/master/datasets))
-- Two standard data modeling problems (imputation & prediction)
-- A number of machine learning solutions (baselines & newly proposed solutions)
-- Well-documented Python implementation on Jupyter Notebook
+- Several publicly available spatiotemporal **data sets** ([data set list](https://github.com/xinychen/transdim/tree/master/datasets))
+- Two standard **data modeling problems** (imputation & prediction)
+- A number of **machine learning solutions** (baselines & newly proposed solutions)
+- Well-documented **Python implementation** on Jupyter Notebook
 
 
 <ul>
