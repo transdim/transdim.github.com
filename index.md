@@ -15,9 +15,10 @@ I am Xinyu Chen. Currently, I am leading an innovative and interesting GitHub pr
 
 ## Highlights
 
-Machine learning models make important developments in the field of spatiotemporal data modeling, like how to forecast near-future traffic states of road networks. But what happens when these models are built with incomplete data commonly collected in real-world systems?
-
-In the transdim project, we build machine learning models to help address some of the toughest challenges of spatiotemporal data modeling from missing data imputation to time series prediction. The strategic aim of this project is creating accurate and efficient solutions for spatiotemporal traffic data imputation and prediction tasks.
+- Several publicly available spatiotemporal data sets ([data set list](https://github.com/xinychen/transdim/tree/master/datasets))
+- Two standard data modeling problems (imputation & prediction)
+- A number of machine learning solutions (baselines & newly proposed solutions)
+- Well-documented Python implementation on Jupyter Notebook
 
 
 <ul>
