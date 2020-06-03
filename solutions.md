@@ -6,15 +6,19 @@ menu:   true
 order:  2
 ---
 
-> _I would have written a shorter letter, but I did not have the time._
->
-> ---Blaise Pascal
+Our solution
+-----------
 
-<ul>
-{% for paper in site.data.papers.papers %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-{% endfor %}
-</ul>
+- Low-rank autoregressive tensor completion for multivariate time series prediction:
+
+<p align="center">
+<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
+</p>
+
+
+
+Baselines
+-----------
+
+- Multivariate time series imputation on [paperwithcode Leaderboards](https://paperswithcode.com/task/multivariate-time-series-imputation).
 
