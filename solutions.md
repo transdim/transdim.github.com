@@ -6,7 +6,7 @@ menu:   true
 order:  2
 ---
 
-Our solution
+Our solutions
 -----------
 
 - Low-rank autoregressive tensor completion for multivariate time series prediction:
