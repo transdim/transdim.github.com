@@ -12,7 +12,7 @@ Our solution
 - Low-rank autoregressive tensor completion for multivariate time series prediction:
 
 <p align="center">
-<img align="middle" src="https://github.com/xinychen/transdim/blob/master/images/predictor-explained.png" width="666" />
+<img align="middle" src="https://raw.githubusercontent.com/xinychen/transdim/master/images/predictor-explained.png" width="666" />
 </p>
 
 
