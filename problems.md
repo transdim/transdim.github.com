@@ -10,11 +10,17 @@ order:  1
 >
 > ---Blaise Pascal
 
-<ul>
-{% for paper in site.data.papers.papers %}
-  <li>
-  {% include paper.html paper=paper %}
-  </li>
-{% endfor %}
-</ul>
+Multivariate time series imputation
+---------
 
+- xx
+
+
+
+Multivariate time series forecasting
+---------
+
+- High-dimensional data (e.g., [Web traffic time series forecasting
+](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) which consists of approximately 145k time series.)
+
+- Missing data.
