@@ -9,7 +9,7 @@ order:  4
 > **transdim** project is from the following papers, please cite these papers if they help your research.
 
 
-- Xinyu Chen, Jinming Yang, Lijun Sun (2020). **A nonconvex low-rank tensor completion model for spatiotemporal traffic data imputation**. arxiv. 2003.10271. [[preprint](https://arxiv.org/abs/2003.10271)] [[data & Python code](https://github.com/xinychen/transdim)]
+- Xinyu Chen, Jinming Yang, Lijun Sun (2020). **A nonconvex low-rank tensor completion model for spatiotemporal traffic data imputation**. Transportation Research Part C: Emerging Technologies. [[preprint](https://arxiv.org/abs/2003.10271)] [[data & Python code](https://github.com/xinychen/transdim)]
 
 - Xinyu Chen, Lijun Sun (2019). **Bayesian temporal factorization for multidimensional time series prediction**. arxiv. 1910.06366. [[preprint](https://arxiv.org/abs/1910.06366)] [[slide](https://xinychen.github.io/paper/Bayesian-temporal-factorization-slide.pdf)] [[data & Python code](https://github.com/xinychen/transdim)]
 
@@ -20,11 +20,11 @@ order:  4
 - Xinyu Chen, Zhaocheng He, Jiawei Wang (2018). **Spatial-temporal traffic speed patterns discovery and incomplete data recovery via SVD-combined tensor decomposition**. Transportation Research Part C: Emerging Technologies, 86: 59-77. [[doi](http://doi.org/10.1016/j.trc.2017.10.023)] [[data](http://doi.org/10.5281/zenodo.1205229)]
 
 
-<ul>
+<!-- <ul>
 {% for paper in site.data.papers.papers %}
   <li>
   {% include paper.html paper=paper %}
   </li>
 {% endfor %}
-</ul>
+</ul> -->
 
