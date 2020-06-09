@@ -13,7 +13,7 @@ order:  1
 Multivariate time series imputation
 ---------
 
-- xx
+- Temporal modeling
 
 
 
@@ -21,6 +21,6 @@ Multivariate time series forecasting
 ---------
 
 - High-dimensional data (e.g., [web traffic time series forecasting
-](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) which consists of approximately 145k time series.)
+](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) which consists of approximately 145k time series, and the first place solution is available at [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic).)
 
 - Missing data.
