@@ -25,4 +25,6 @@ Multivariate time series forecasting
 
 - Multi-dimensional data (One excellent example is human mobility flow, it has origin, destination, and time dimensions.)
 
+- Short time series data (How to apply machine learning models like [Hankel structured low rank matrix completion](http://homepages.vub.ac.be/~imarkovs/talks/cambridge11.pdf) to forecast short time series? How to generalize it to multivariate time series cases?)
+
 - Missing data.
