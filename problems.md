@@ -27,8 +27,10 @@ Multivariate time series forecasting
 
   - [High-dimensional multivariate forecasting with low-rank Gaussian copula processes](https://arxiv.org/pdf/1910.03002.pdf): Is it really scalable to high-dimensional multivariate time series forecasting?
 
-- Multi-dimensional data (One excellent example is human mobility flow, it has origin, destination, and time dimensions.)
+- Non-stationary signals (One recent work is [Shape and time distortion loss for training deep time series forecasting models](https://papers.nips.cc/paper/8672-shape-and-time-distortion-loss-for-training-deep-time-series-forecasting-models.pdf).)
 
 - Short time series data (One intuitive example is daily passenger flow at railway station during special periods like Chinese New Year (about two to three weeks). How to apply machine learning models like [Hankel structured low rank matrix completion](http://homepages.vub.ac.be/~imarkovs/talks/cambridge11.pdf) to forecast short time series? How to generalize it to multivariate time series cases?)
 
 - Missing data.
+
+- Multi-dimensional data (One excellent example is human mobility flow, it has origin, destination, and time dimensions.)
