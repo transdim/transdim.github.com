@@ -15,7 +15,7 @@ Multivariate time series imputation
 
 - Non-random missing (missing not at random in matrix/tensor.)
 
-- Blockouts (One recent work is [HKMF-T: Recover from blackouts in tagged time series with Hankel matrix factorization](https://ieeexplore.ieee.org/document/8979178).)
+- Blockouts (Missing values are occured in some consecutive time points for all time series. One recent work is [HKMF-T: Recover from blackouts in tagged time series with Hankel matrix factorization](https://ieeexplore.ieee.org/document/8979178).)
 
 
 
