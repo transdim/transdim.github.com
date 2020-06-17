@@ -15,7 +15,7 @@ Multivariate time series imputation
 
 - Non-random missing (missing not at random in matrix/tensor.)
 
-- Blockouts (Missing values are occured in some consecutive time points for all time series. One recent work is [HKMF-T: Recover from blackouts in tagged time series with Hankel matrix factorization](https://ieeexplore.ieee.org/document/8979178).)
+- Blackouts (Missing values are occured in some consecutive time points for all time series. One recent work is [HKMF-T: Recover from blackouts in tagged time series with Hankel matrix factorization](https://ieeexplore.ieee.org/document/8979178).)
 
 - Count valued data (There are many count valued data, e.g., passenger/traffic flow. But how to develop any machine/statistical learning model for them? One online imputation work is [Online tensor decomposition and imputation for count data](http://www2.ece.rochester.edu/~gmateosb/pubs/tensor/tensor_DSW19_Slides.pdf).)
 
