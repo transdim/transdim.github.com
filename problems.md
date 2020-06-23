@@ -24,7 +24,7 @@ Multivariate time series forecasting
 ---------
 
 - High-dimensional data (One example is [web traffic time series forecasting
-](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) which consists of approximately 145k time series, and the first place solution is available at [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic). Another example is using Diffusion Convolutional Recurrent Neural Network (DCRNN) to forecast the traffic of the entire California highway network with 11,160 traffic sensor locations simultaneously, and the Python code is available at [https://github.com/liyaguang/DCRNN](https://github.com/liyaguang/DCRNN).)
+](https://www.kaggle.com/c/web-traffic-time-series-forecasting/data) which consists of approximately 145k time series, and the first place solution is available at [https://github.com/Arturus/kaggle-web-traffic](https://github.com/Arturus/kaggle-web-traffic). Another example is [Transfer learning with graph neural networks for short-term highway traffic forecasting](https://arxiv.org/abs/2004.08038). Here, Diffusion Convolutional Recurrent Neural Network (DCRNN) is used to forecast the traffic of the entire California highway network with 11,160 traffic sensor locations simultaneously, and the Python code is available at [https://github.com/liyaguang/DCRNN](https://github.com/liyaguang/DCRNN).)
 
   - [High-dimensional multivariate forecasting with low-rank Gaussian copula processes](https://arxiv.org/pdf/1910.03002.pdf): Is it really scalable to high-dimensional multivariate time series forecasting?
 
