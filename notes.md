@@ -41,6 +41,11 @@ Machine Learning
   
   - Paper [Joint Schatten p-norm and  lp-norm robust matrix completion for missing value recovery](http://inside.mines.edu/~huawang/Papers/Journal/2013KAIS_pnorm.pdf) (2013).
 
+- **Fourier analysis**
+
+  - [Relationship between Singular Spectrum Analysis and Fourier analysis: Theory and application to the monitoring of volcanic activity](https://doi.org/10.1016/j.camwa.2010.05.028): This paper showed that SSA is related to Fourier analysis by using asymptotic properties of the eigenvalues of Toeplitz matrices.
+  
+
 Optimization Methods
 ----------------------
 
