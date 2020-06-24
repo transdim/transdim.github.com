@@ -23,7 +23,7 @@ Time Series Analysis
 Machine Learning
 ----------------------
 
-- **Low-Rank Matrix/Tensor Completion**
+- **Low-rank matrix/tensor completion**
   
   - Paper [Large-scale low-rank matrix learning with nonconvex regularizers](https://arxiv.org/pdf/1708.00146.pdf) (PAMI 2018): fast and nonconvex low-rank matrix completion models.
   
