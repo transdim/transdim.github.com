@@ -11,7 +11,15 @@ These learning notes cover the material that would advance the transdim project.
 Optimization Methods
 ----------------------
 
-- Majorization Minimization algorithm
+- **Time sieres forecasting**
+
+  - Deep Demand Forecast Models (GitHub repository: [https://github.com/jingw2/demand_forecast](https://github.com/jingw2/demand_forecast)): Pytorch Implementation of DeepAR, MQ-RNN, Deep Factor Models, LSTNet, and TPA-LSTM.
+  
+  - A paper [Temporal tensor transformation network for multivariate time series prediction](https://arxiv.org/pdf/2001.01051.pdf) combined tensor structure and transfomer for time series forecasting.
+  
+  - Paper [Joint forecasting and interpolation of graph signals using deep learning](https://arxiv.org/pdf/2006.01536.pdf): RNNs + graph signal processing.
+
+- **Majorization Minimization algorithm**
   
   - Kenneth Lange (2018). [Examples of MM Algorithms (slide)](https://hua-zhou.github.io/teaching/biostatm280-2018spring/slides/20-mm/deLeeuw.pdf).
   
