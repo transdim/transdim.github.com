@@ -53,6 +53,12 @@ Machine Learning
 
   - [Relationship between Singular Spectrum Analysis and Fourier analysis: Theory and application to the monitoring of volcanic activity](https://doi.org/10.1016/j.camwa.2010.05.028): This paper showed that SSA is related to Fourier analysis by using asymptotic properties of the eigenvalues of Toeplitz matrices.
   
+Deep Learning
+---------------------
+
+- **Attention Model**
+
+  - Lilian Weng (2018). [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html). Blog post.
 
 Optimization Methods
 ----------------------
