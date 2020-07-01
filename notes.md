@@ -41,6 +41,14 @@ Machine Learning
   
   - Paper [Joint Schatten p-norm and  lp-norm robust matrix completion for missing value recovery](http://inside.mines.edu/~huawang/Papers/Journal/2013KAIS_pnorm.pdf) (2013).
 
+- **Hankel matrix**
+
+  - [Fast Hankel tensor–vector product and its application to exponential data fitting (2015)](http://www.math.hkbu.edu.hk/~wyding/paper/DingQiWei15.pdf).
+  
+  - [High Rank Matrix Completion with Side Information (AAAI 2018)](http://www.ccs.neu.edu/home/eelhami/publications/HRMC-SideInfo-AAAI18-Ehsan.pdf).
+  
+  - [Interpolation using Hankel tensor completion (2013)](http://dx.doi.org/10.1190/segam2013-0416.1).
+
 - **Fourier analysis**
 
   - [Relationship between Singular Spectrum Analysis and Fourier analysis: Theory and application to the monitoring of volcanic activity](https://doi.org/10.1016/j.camwa.2010.05.028): This paper showed that SSA is related to Fourier analysis by using asymptotic properties of the eigenvalues of Toeplitz matrices.
