@@ -18,6 +18,8 @@ Time Series Analysis
   - A paper [Temporal tensor transformation network for multivariate time series prediction](https://arxiv.org/pdf/2001.01051.pdf) (2020) combined tensor structure and transfomer for time series forecasting.
   
   - Paper [Joint forecasting and interpolation of graph signals using deep learning](https://arxiv.org/pdf/2006.01536.pdf) (2020): RNNs + graph signal processing.
+  
+  - Anish Agarwal, Abdullah Alomar, Devavrat Shah (2020). [On Multivariate Singular Spectrum Analysis](https://arxiv.org/pdf/2006.13448.pdf).
 
 
 Machine Learning
@@ -30,6 +32,15 @@ Machine Learning
   - Paper [Efficient nonconvex regularized tensor completion with structure-aware proximal iterations](http://proceedings.mlr.press/v97/yao19a/yao19a.pdf) (ICML 2019): sparse plus low-rank structure + proximal iteration solution.
   
   - Paper [Scalable tensor completion with nonconvex regularization](https://arxiv.org/pdf/1807.08725v1.pdf) (2018): scalable tensor learning framework.
+  
+  - Jing Ma, Qiuchen Zhang, Joyce C. Ho, and Li Xion (2020). [Spatio-Temporal Tensor Sketching via Adaptive Sampling](https://arxiv.org/pdf/2006.11943.pdf).
+
+- **Tensor Singular Value Decomposition**
+
+  - Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin, Shuicheng Yan (CVPR 2016). [Tensor Robust Principal Component Analysis: Exact Recovery of Corrupted
+Low-Rank Tensors via Convex Optimization](https://canyilu.github.io/publications/2016-CVPR-TRPCA.pdf).
+
+  - Canyi Lu, Jiashi Feng, Yudong Chen, Wei Liu, Zhouchen Lin, Shuicheng Yan (PAMI 2018). [Tensor Robust Principal Component Analysis with A New Tensor Nuclear Norm](https://arxiv.org/pdf/1804.03728.pdf).
 
 - **Schatten p-norm minimization and its application**
 
@@ -53,12 +64,24 @@ Machine Learning
 
   - [Relationship between Singular Spectrum Analysis and Fourier analysis: Theory and application to the monitoring of volcanic activity](https://doi.org/10.1016/j.camwa.2010.05.028): This paper showed that SSA is related to Fourier analysis by using asymptotic properties of the eigenvalues of Toeplitz matrices.
   
+- **Total variation**
+  
+  - Xu Han, Jiasong Wu, Lu Wang, Yang Chen, Lotfi Senhadji, Huazhong Shu (2014). [Linear Total Variation Approximate Regularized Nuclear Norm Optimization for Matrix Completion](https://projecteuclid.org/euclid.aaa/1425047781).
+  
 Deep Learning
 ---------------------
 
 - **Attention Model**
 
   - Lilian Weng (2018). [Attention? Attention!](https://lilianweng.github.io/lil-log/2018/06/24/attention-attention.html). Blog post.
+  
+  - [Attention Mechanism](https://blog.floydhub.com/attention-mechanism/). Blog post.
+  
+  - Fu et al. (CVPR 2019). [Dual Attention Network for Scene Segmentation](https://openaccess.thecvf.com/content_CVPR_2019/papers/Fu_Dual_Attention_Network_for_Scene_Segmentation_CVPR_2019_paper.pdf).
+  
+  - [GeoMAN: Multi-level Attention Networks for Geo-sensory Time Series Prediction](http://urban-computing.com/pdf/liang2018geoman.pdf).
+  
+  - Sinong Wang, Belinda Z. Li, Madian Khabsa, Han Fang, Hao Ma (2020). [Linformer: Self-Attention with Linear Complexity](https://arxiv.org/pdf/2006.04768.pdf).
 
 Optimization Methods
 ----------------------
