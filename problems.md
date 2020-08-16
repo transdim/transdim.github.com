@@ -35,3 +35,14 @@ Multivariate time series forecasting
 - Missing data.
 
 - Multi-dimensional data (One excellent example is human mobility flow, it has origin, destination, and time dimensions.)
+
+Low-rank tensor learning
+------------
+
+> Summarized from [the special issue for signal processing and machine learning](https://signalprocessingsociety.org/sites/default/files/uploads/special_issues_deadlines/JSTSP_SI_tensor_decomposition.pdf).
+
+- New tensor decompositions and uniqueness issues of tensor models
+- Low-rank approximations
+- Fast and robust tensor decompositions
+- Optimization problems related to tensor models
+- Spatial temporal data via tensor factorization 
