@@ -7,7 +7,6 @@ order:  3
 ---
 
 
-
 ## Python Implementation
 
 - **imputer** (imputation models)
@@ -35,6 +34,16 @@ order:  3
 | [**BTMF**](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/predictor/BTMF.ipynb) |   ✅   |   🔶   |   ✅   |   ✅   |   ✅   |   ✅   |   ✅   |
 | [**BTTF**](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/predictor/BTTF.ipynb) |   🔶   |   🔶   |   🔶   |   🔶   |   🔶   |   ✅   |   ✅   |
 
+The full model name:
+
+> - BPMF: Bayesian probabilistic matrix factorization
+> - TRMF: Temporal regularized matrix factorization
+> - BTRMF: Bayesian temporal regularized matrix factorization
+> - **BTMF**: Bayesian temporal matrix factorization
+> - **BGCP**: Bayesian Gaussian CP decomposition
+> - **BATF**: Bayesian augmented tensor factorization
+> - **BTTF**: Bayesian temporal tensor factorization
+> - **HaLRTC**: High-accuracy low-rank tensor completion
 
 
 ## Tutorial on Tensor Learning
