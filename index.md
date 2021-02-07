@@ -17,7 +17,7 @@ Hi, I am Xinyu Chen, a PhD candidate at Polytechnique Montreal affiliated with U
 
 - Several publicly available spatiotemporal **data sets** ([data set list](https://github.com/xinychen/transdim/tree/master/datasets))
 - Two standard **data modeling problems** (imputation & prediction)
-- A number of **machine learning solutions** (baselines & newly proposed solutions)
+- A number of **machine learning solutions** (baseline models & newly proposed solutions)
 - Well-documented **Python implementation** on Jupyter Notebook
 
 
