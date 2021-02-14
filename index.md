@@ -8,6 +8,7 @@ Hi, I am Xinyu Chen, a Ph.D. candidate at Polytechnique Montreal affiliated with
 
 
 ## News
+* **2021/02**: transdim gets [500+ stars](https://github.com/xinychen/transdim/stargazers) and [150+ forks](https://github.com/xinychen/transdim/network/members) on GitHub.
 * **2020/05**: transdim gets [300+ stars](https://github.com/xinychen/transdim/stargazers) and [100+ forks](https://github.com/xinychen/transdim/network/members) on GitHub.
 * **2020/05**: Paper "A nonconvex low-rank tensor completion for spatiotemporal traffic data imputation" (authors: Xinyu Chen, Jinming Yang, [Lijun Sun](https://lijunsun.github.io/)) is accepted by the journal [*Transportation Research Part C: Emerging Technologies*](https://www.journals.elsevier.com/transportation-research-part-c-emerging-technologies/). The Python implementation is available at [Imputation-LRTC-TNN.ipynb](https://nbviewer.jupyter.org/github/xinychen/transdim/blob/master/experiments/Imputation-LRTC-TNN.ipynb).
 * **2020/03**: transdim project is awarded by [IVADO Excellence PhD funding](https://ivado.ca/en/ivado-scholarships/excellence-scholarships-phd/) (proposal: "City-scale traffic data imputation and forecasting with tensor learning").
