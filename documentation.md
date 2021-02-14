@@ -43,7 +43,7 @@ The full model name:
 > - **BGCP**: Bayesian Gaussian CP decomposition
 > - **BATF**: Bayesian augmented tensor factorization
 > - **BTTF**: Bayesian temporal tensor factorization
-> - **HaLRTC**: High-accuracy low-rank tensor completion
+> - HaLRTC: High-accuracy low-rank tensor completion
 
 
 ## Tutorial on Tensor Learning
